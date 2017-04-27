@@ -1,5 +1,5 @@
 # Resources
-A place to keep resources I find useful and maybe someone else will.
+A place to keep resources I find useful. Maybe someone else will too.
 
 ## CTFs
 http://www.vulnhub.com
